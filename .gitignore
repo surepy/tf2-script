@@ -3,7 +3,7 @@ config_default.cfg
 config.cfg
 user.scr
 
-motd_enteries.txt
+motd_entries.txt
 
 // cfg.tf
 cfgtf/
